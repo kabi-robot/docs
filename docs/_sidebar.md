@@ -5,4 +5,5 @@
     * [markdown语法](/Docsify/markdown.md)
 * [Linux](Linux/)
     * [常用指令](/Linux/常用指令.md)
+    * [shell](/Linux/shell.md)
 
